@@ -172,7 +172,7 @@ const Footer = () => {
             })}
           </div>
 
-          <div className="text-center">Made By Rajani © 2024 </div>
+          <div className="text-center">Made By Rajani © 2023 </div>
         </div>
       </div>
     </div>
